@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network
+http://lb.kstream.org/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
+#EXTINF:-1 type="stream" tvg-id="Combate FHD" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate FHD
+http://lb.kstream.org/aovivo/FHD_COMBATE/video.m3u8?token=c7bf9e0f8427beeeac71fb30144cd528
+#EXTINF:-1 type="stream" tvg-id="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX
+http://lb.kstream.org/aovivo/SD_FX/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
+TINF:-1 type="stream" tvg-id="XXX 17 (GAY)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 17 (GAY)
+http://lb.kstream.org/aovivo/XXX_17/video.m3u8?token=c7bf9e0f8427beeeac71fb30144cd528
+#EXTINF:-1 type="stream" tvg-id="Megapix" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png" group-title="Filme e Serie",Megapix
+http://lb.kstream.org/aovivo/SD_MEGAPIX/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
+#EXTINF:-1 type="stream" tvg-id="Playboy TV" tvg-logo="https://i.ibb.co/6RZ0RWY/playboytv.png" group-title="Adulto",Playboy TV
+http://lb.kstream.org/aovivo/SD_PLAYBOY/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
+#EXTINF:-1 type="stream" tvg-id="Playboy TV FHD" tvg-logo="https://i.ibb.co/6RZ0RWY/playboytv.png" group-title="Adulto",Playboy TV FHD
+http://lb.kstream.org/aovivo/FHD_PLAYBOY/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
+#EXTINF:-1 type="stream" tvg-id="Sextreme HD" tvg-logo="https://i.ibb.co/ssvXpB7/sextremeb.png" group-title="Adulto",Sextreme HD
+http://lb.kstream.org/aovivo/HD_SEXTREME/video.m3u8?token=c7bf9e0f8427beeeac71fb30144cd528
+#EXTINF:-1 type="stream" tvg-id="SexPrive HD" tvg-logo="https://i.ibb.co/HVHjGWZ/s78479-h3-aa.png" group-title="Adulto",SexPrive HD
+http://lb.kstream.org/aovivo/HD_SEXPRIVE/video.m3u8?token=c7bf9e0f8427beeeac71fb30144cd528
+#EXTINF:-1 type="stream" tvg-id="Sexy Hot HD" tvg-logo="https://i.ibb.co/n3vjNY5/sexyhotb.png" group-title="Adulto",Sexy Hot HD
+http://lb.kstream.org/aovivo/HD_SEXHOT/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
+#EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme e Telecine",Telecine Action
+http://lb.kstream.org/aovivo/SD_TC_ACTION/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="Filme e Telecine",Telecine Fun
+http://lb.kstream.org/aovivo/SD_TC_FUN/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme e Telecine",Telecine Pipoca
+http://lb.kstream.org/aovivo/SD_TC_PIPOCA/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme e Telecine",Telecine Premium
+http://lb.kstream.org/aovivo/SD_TC_PREMIUM/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme e Telecine",Telecine Touch
+http://lb.kstream.org/aovivo/SD_TC_TOUCH/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
+TINF:-1 type="stream" tvg-id="TNT FHD" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT FHD
+http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=c7bf9e0f8427beeeac71fb30144cd528
+
