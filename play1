@@ -6,7 +6,7 @@ http://lb.kstream.org/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=b316f22f06e8eaf
 http://lb.kstream.org/aovivo/FHD_COMBATE/video.m3u8?token=c7bf9e0f8427beeeac71fb30144cd528
 #EXTINF:-1 type="stream" tvg-id="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX
 http://lb.kstream.org/aovivo/SD_FX/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
-TINF:-1 type="stream" tvg-id="XXX 17 (GAY)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 17 (GAY)
+#EXTINF:-1 type="stream" tvg-id="XXX 17 (GAY)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 17 (GAY)
 http://lb.kstream.org/aovivo/XXX_17/video.m3u8?token=c7bf9e0f8427beeeac71fb30144cd528
 #EXTINF:-1 type="stream" tvg-id="Megapix" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png" group-title="Filme e Serie",Megapix
 http://lb.kstream.org/aovivo/SD_MEGAPIX/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
@@ -30,6 +30,6 @@ http://lb.kstream.org/aovivo/SD_TC_PIPOCA/video.m3u8?token=b316f22f06e8eafa3f030
 http://lb.kstream.org/aovivo/SD_TC_PREMIUM/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
 #EXTINF:-1 type="stream" tvg-id="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme e Telecine",Telecine Touch
 http://lb.kstream.org/aovivo/SD_TC_TOUCH/video.m3u8?token=b316f22f06e8eafa3f030128138f804a
-TINF:-1 type="stream" tvg-id="TNT FHD" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT FHD
+#EXTINF:-1 type="stream" tvg-id="TNT FHD" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT FHD
 http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=c7bf9e0f8427beeeac71fb30144cd528
 
